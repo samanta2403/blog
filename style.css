@@ -58,3 +58,24 @@ input
 .environment_li p{
     margin-top: 10px;
 }
+.books{
+    cursor: pointer;
+}
+.books hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10p-x;
+}
+.modal-body{
+    text-align: center;
+}
+.header_entrepreneur{
+    line-height: 2;
+}
